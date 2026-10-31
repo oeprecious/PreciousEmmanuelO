@@ -55,3 +55,22 @@
 .card ul li {
   margin-left: 2rem !important;
 }
+
+.favQuote {
+  max-width: 65%;
+  margin-top: 1.5rem;
+  border-left: 2px solid gray;
+  padding: 1.1rem;
+  border-radius: 0.4rem;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s ease;
+}
+
+.favQuote:hover {
+  transform: translateY(-5px);
+}
+
+.cv_project_Link li a {
+  color: blue;
+}
+

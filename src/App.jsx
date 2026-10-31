@@ -40,9 +40,16 @@ const App = () => {
                 <h4>Lifelong learner</h4>
               </div>
 
+              <div className="favQuote">
+                Life is a precious gift that teaches us lessons every day. It is full
+                of happiness, challenges, success, and failure. Life helps us grow through
+                experiences and makes us stronger with time. Every moment gives us a chance to
+                learn something new. Life is not always easy, but difficulties makes us wise and patient. Loving others, helping people, and staying positive make life meaningful.
+                Time is very important in life, so we should use it wisely. When we live with honesty, balance, and hope, life becomes beautiful. Therefore, we should value life, learn from it, and live it with purpose and gratitude.
+              </div>
+
+
             </div>
-
-
 
           </main>
 
