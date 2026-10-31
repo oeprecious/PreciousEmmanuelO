@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Glegoo:wght@400;700&family=Mate+SC&family=Pacifico&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+:root {
+  --font-szie: 1.8rem;
+  --text-primary: black;
+}
+
+body {
+  font-family: var(--font-szie);
+  color: var(--text-primary);
+  font-family: "Roboto", sans-serif;
+  line-height: 1.6;
+  font-size: var(--font-szie);
+}
