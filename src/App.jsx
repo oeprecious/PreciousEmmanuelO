@@ -28,7 +28,7 @@ const App = () => {
 
               <ul>
                 <div className="cv_project_Link">
-                  <li><a href="https://docs.google.com/document/d/1ayuwa77sy24g4FpbWEazTjs76mbdmRR5gf5h4e1_HjY/export?format=pdf">Download CV</a></li> <p>(Frontend Developer, Available to hire)</p>
+                  <li><a href="https://docs.google.com/document/d/1ayuwa77sy24g4FpbWEazTjs76mbdmRR5gf5h4e1_HjY/export?format=pdf">Download CV</a></li> <p>(Frontend Developer)</p>
                 </div>
 
                 <div className="cv_project_Link">
@@ -49,7 +49,7 @@ const App = () => {
                 Time is very important in life, so we should use it wisely. When we live with honesty, balance, and hope, life becomes beautiful. Therefore, we should value life, learn from it, and live it with purpose and gratitude.
               </div>
 
-               <div className="imageCard">
+              <div className="imageCard">
                 <img src={Precious} alt={Precious} className="image" />
               </div>
 

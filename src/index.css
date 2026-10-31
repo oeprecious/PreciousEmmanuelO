@@ -21,3 +21,48 @@ body {
   line-height: 1.6;
   font-size: var(--font-szie);
 }
+
+@media only screen and (max-width: 768px) {
+  /* * {
+    border: 1px solid red;
+  } */
+
+  .card {
+    width: fit-content;
+    padding-top: 1rem;
+    padding-left: 1rem !important;
+    padding-right: 1rem;
+  }
+
+  .contentContainer {
+    width: 100% !important;
+  }
+
+  .navBar {
+    width: 92% !important;
+  }
+
+  .image {
+    width: 25rem !important;
+    height: 25rem !important;
+    display: block;
+    object-fit: cover;
+  }
+
+  .card h1 {
+    font-size: 3rem;
+  }
+
+  .imageCard {
+    width: fit-content;
+  }
+
+  .favQuote {
+    max-width: 100% !important;
+  }
+
+  .container {
+    padding-top: 8rem !important;
+  }
+ 
+}
