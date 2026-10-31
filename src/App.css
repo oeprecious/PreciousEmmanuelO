@@ -1,0 +1,42 @@
+.container {
+  display: flex;
+  justify-content: center;
+  padding-top: 9rem;
+}
+
+.navBar {
+  display: flex;
+  align-items: center !important;
+  justify-content: space-evenly;
+  padding: 2rem;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);
+  border-radius: 0.4rem;
+  position: fixed;
+  top: 0;
+  left: 50%;
+  width: 43.1%;
+  transform: translateX(-50%);
+  z-index: 100;
+  background-color: rgba(255, 255, 255, 0.953);
+}
+
+.navBar a {
+  color: black;
+  transition: transform 0.3s ease;
+}
+
+.navBar a:hover {
+  transform: translateY(-5px);
+}
+
+.contentContainer {
+  width: 45%;
+  height: auto;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);
+  padding-bottom: 1.5rem;
+}
+
+.card {
+  padding-top: 1rem;
+  padding-left: 2rem;
+}
