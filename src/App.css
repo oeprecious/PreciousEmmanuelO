@@ -40,3 +40,18 @@
   padding-top: 1rem;
   padding-left: 2rem;
 }
+
+.card h1 {
+  letter-spacing: 1px;
+  width: fit-content;
+}
+
+.cv_project_Link {
+  display: flex;
+  gap: 1rem;
+  width: fit-content;
+}
+
+.card ul li {
+  margin-left: 2rem !important;
+}
