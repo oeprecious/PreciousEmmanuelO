@@ -1,5 +1,6 @@
 import { FaGithub, FaLinkedin, FaEnvelope } from 'react-icons/fa'
 import './App.css'
+import Precious from "./assets/image/precious.png"
 
 const App = () => {
   return (
@@ -48,6 +49,9 @@ const App = () => {
                 Time is very important in life, so we should use it wisely. When we live with honesty, balance, and hope, life becomes beautiful. Therefore, we should value life, learn from it, and live it with purpose and gratitude.
               </div>
 
+               <div className="imageCard">
+                <img src={Precious} alt={Precious} className="image" />
+              </div>
 
             </div>
 
