@@ -4,7 +4,7 @@ A one-page portfolio for a frontend developer, built with React.
 
 **Live site:** https://oeprxc.github.io/PreciousEmmanuelO/
 
-![Portfolio on desktop](screenshot/desktop.png)
+![Portfolio on desktop](screenshots/desktop.png)
 
 ## About this project
 
