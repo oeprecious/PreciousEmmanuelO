@@ -105,5 +105,5 @@ Two settings matter for GitHub Pages:
 
 ## Contact
 
-- GitHub: [oeprxc](https://github.com/oeprecious)
+- GitHub: [oeprecious](https://github.com/oeprecious)
 - LinkedIn: [Precious O. Emmanuel](https://linkedin.com/in/precious-o-emmanuel-92671142a)
