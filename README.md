@@ -2,7 +2,7 @@
 
 A one-page portfolio for a frontend developer, built with React.
 
-**Live site:** https://oeprxc.github.io/PreciousEmmanuelO/
+**Live site:** https://oeprecious.github.io/PreciousEmmanuelO/
 
 ![Portfolio on desktop](screenshots/desktop.png)
 
@@ -38,7 +38,7 @@ You need [Node.js](https://nodejs.org) installed.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/oeprxc/PreciousEmmanuelO.git
+git clone https://github.com/oeprecious/PreciousEmmanuelO.git
 
 # 2. Go into the project folder
 cd PreciousEmmanuelO
@@ -105,5 +105,5 @@ Two settings matter for GitHub Pages:
 
 ## Contact
 
-- GitHub: [oeprxc](https://github.com/oeprxc)
+- GitHub: [oeprxc](https://github.com/oeprecious)
 - LinkedIn: [Precious O. Emmanuel](https://linkedin.com/in/precious-o-emmanuel-92671142a)
