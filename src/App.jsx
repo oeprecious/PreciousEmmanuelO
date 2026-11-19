@@ -28,7 +28,11 @@ const App = () => {
 
               <ul>
                 <div className="cv_project_Link">
+<<<<<<< HEAD
                   <li><a href="https://docs.google.com/document/d/1WL2lvGM7kmafsN558krOyflMEKF6W2km3xTnCc84DoE/export?format=pdf">Download CV</a></li> <p>(Frontend Developer)</p>
+=======
+                  <li><a href="https://docs.google.com/document/d/1ayuwa77sy24g4FpbWEazTjs76mbdmRR5gf5h4e1_HjY/export?format=pdf">Download CV</a></li> <p>(Frontend Developer)</p>
+>>>>>>> c19b5f41c8899eeb19134a51584873d3ec45bb8a
                 </div>
 
                 <div className="cv_project_Link">
